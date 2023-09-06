@@ -1,27 +1,46 @@
+
 "use client";
-import { Github, Mail, Twitter } from "lucide-react";
+import { Github, Mail, Twitter, Facebook, Instagram, Youtube, Coffee } from "lucide-react";
 import Link from "next/link";
 import { Navigation } from "../components/nav";
 import { Card } from "../components/card";
 
 const socials = [
+{
+		icon: <Instagram size={20} />,
+		href: "https://instagram.com/kalimero_666",
+		label: "Instagram",
+		handle: "@kalimero_666",
+	},
+	{
+		icon: <Facebook size={20} />,
+		href: "https://facebook.com/kalimerox19",
+		label: "Facebook",
+		handle: "@kalimerox19",
+	},
+	{
+		icon: <Coffee size={20} />,
+		href: "https://ko-fi.com/kalimero666",
+		label: "Ko-Fi",
+		handle: "@kalimero666",
+	},
 	{
 		icon: <Twitter size={20} />,
-		href: "https://twitter.com/chronark_",
+		href: "https://twitter.com/kalimero_666_",
 		label: "Twitter",
-		handle: "@chronark_",
+		handle: "@kalimero_666_",
 	},
 	{
 		icon: <Mail size={20} />,
-		href: "mailto:dev@chronark.com",
+		href: "mailto:kalimero@ik.me",
 		label: "Email",
-		handle: "dev@chronark.com",
+		handle: "kalimero@ik.me",
 	},
 	{
 		icon: <Github size={20} />,
-		href: "https://github.com/chronark",
+		href: "https://github.com/kalimerO666",
 		label: "Github",
-		handle: "chronark",
+		handle: "kalimerO666",
 	},
 ];
 
