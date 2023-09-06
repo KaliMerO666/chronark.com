@@ -4,11 +4,11 @@ import Particles from "./components/particles";
 
 const navigation = [
 	
-	{ name: "Welkom'", href: "https://station-service.kalimero.rocks" },
-	{ name: "Picaboo", href: "https://picaboo.kalimero.rocks" },
-	{ name: "Rock, Ghost", href: "https://rockghostsrock.digitalpress.blog" },
-	{ name: "Shop", href: "https://bookomatic.hstn.me" },
-	{ name: "About", href: "/contact" },
+	{ name: "Site", href: "https://station-service.kalimero.rocks" },
+	{ name: "About", href: "https://yamwhatyam.kalimero.rocks" },
+	{ name: "Gallery", href: "https://picaboo.kalimero.rocks" },
+	{ name: "Blog", href: "https://rockghostsrock.digitalpress.blog" },
+	{ name: "Contact", href: "/contact" },
 ];
 
 export default function Home() {
