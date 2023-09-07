@@ -58,7 +58,7 @@ export default function Home() {
 					>
 						graphic novels
 					</Link>{" "}
-					at night.
+					from time to time.
 				</h2>
 			</div>
 		</div>
