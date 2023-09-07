@@ -4,7 +4,7 @@ import Particles from "./components/particles";
 
 const navigation = [
 	
-	{ name: "Site", href: "station-service.kalimero.rocks" },
+	{ name: "Site", href: "kalimeroland.vercel.app" },
 	{ name: "About", href: "https://yamwhatyam.kalimero.rocks" },
 	{ name: "Gallery", href: "https://picabooo.kalimero.rocks" },
 	{ name: "Blog", href: "https://rockghostsrock.digitalpress.blog" },
@@ -53,7 +53,7 @@ export default function Home() {
 					working on{" "}
 					<Link
 						target="_blank"
-						href="https://nest-in-pace.kalimero.rocks"
+						href="https://nest-in-pace.netlify.app"
 						className="underline duration-500 hover:text-zinc-300"
 					>
 						graphic novels
