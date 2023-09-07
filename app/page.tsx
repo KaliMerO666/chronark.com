@@ -4,9 +4,9 @@ import Particles from "./components/particles";
 
 const navigation = [
 	
-	{ name: "Site", href: "https://station-service.kalimero.rocks" },
+	{ name: "Site", href: "station-services.vercel.app" },
 	{ name: "About", href: "https://yamwhatyam.kalimero.rocks" },
-	{ name: "Gallery", href: "https://picaboo.kalimero.rocks" },
+	{ name: "Gallery", href: "https://picaboo.netlify.app" },
 	{ name: "Blog", href: "https://rockghostsrock.digitalpress.blog" },
 	{ name: "Contact", href: "/contact" },
 ];
