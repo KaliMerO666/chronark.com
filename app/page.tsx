@@ -5,8 +5,8 @@ import Particles from "./components/particles";
 const navigation = [
 	
 	{ name: "Site", href: "https://station-service.vercel.app" },
-	{ name: "About", href: "https://yamwhatyam.kalimero.rocks" },
-	{ name: "Gallery", href: "https://picabooo.kalimero.rocks" },
+	{ name: "About", href: "https://yamwhatyam.vercel.app" },
+	{ name: "Gallery", href: "https://picabooo.netlify.app" },
 	{ name: "Blog", href: "https://rockghostsrock.digitalpress.blog" },
 	{ name: "Contact", href: "/contact" },
 ];
